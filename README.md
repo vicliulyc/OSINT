@@ -43,6 +43,16 @@ To replicate these labs:
 2. Follow the lab instructions to explore the functionality of each tool (Recon-ng, theHarvester, Maltego, Sherlock).
 3. Practice gathering, analyzing, and visualizing data based on each lab’s objectives.
 
+# Open-Source Intelligence (OSINT) Investigation Labs
+
+This repository contains a series of mini-labs designed to build practical skills in Open Source Intelligence (OSINT) for information gathering and analysis. Select a lab below to get started:
+
+- [Lab 1: Recon-ng Setup and Target Data Gathering](labs/Lab1.md)
+- [Lab 2: Data Harvesting with theHarvester](labs/Lab2.md)
+- [Lab 3: Data Visualization with Maltego](labs/Lab3.md)
+- [Lab 4: Social Media Username Search with Sherlock](labs/Lab4.md)
+
+
 ## Contributing
 Contributions to expand or improve these labs are welcome. Please submit a pull request with proposed changes.
 
